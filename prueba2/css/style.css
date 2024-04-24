@@ -360,11 +360,10 @@ h1,h2,h3,h4,h5{
 	.main-footer .container--flex{
 		align-items: flex-start;
 	}
-	.titfon{
-		top: 40%;
-		left: 50%;
-	}
-	
+}
+.titfon{
+	top: 65%;
+	left: 50%;
 }
 @media screen and (min-width:1024px){
 .container{
@@ -444,6 +443,6 @@ h1,h2,h3,h4,h5{
 	.titfon{
 		top: 45%;
 		left: 50%;
+		width: auto;
 	}
 }
-
